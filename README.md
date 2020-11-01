@@ -10,6 +10,11 @@ Our results were in the top 5 but most importantly the framework developed could
 
 Please check Methods_and_Workflow_SubChallenges.pdf for explainations.
 
+https://www.synapse.org/#!Synapse:syn21827452/wiki/602762
+
+Challenge 1: Ex-vivo drug sensitivity prediction with kernel multi-task regression.
+
+Challenge 2: Outcome prediction from knowledge transfer of large scale AML genomic study.
 
 
 
