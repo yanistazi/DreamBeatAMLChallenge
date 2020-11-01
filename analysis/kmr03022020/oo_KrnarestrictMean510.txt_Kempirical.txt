@@ -1,0 +1,169 @@
+[1] 293 293
+[1] 122 122
+[1] "Start CV"
+[1] "KrnarestrictMean510_Kempirical"
+[1] "X17.AAG..Tanespimycin."
+..........[1] "A.674563"
+..........[1] "ABT.737"
+..........[1] "AT7519"
+..........[1] "AZD1480"
+..........[1] "Afatinib..BIBW.2992."
+..........[1] "Alisertib..MLN8237."
+..........[1] "Axitinib..AG.013736."
+..........[1] "BEZ235"
+..........[1] "BI.2536"
+..........[1] "BMS.345541"
+..........[1] "Barasertib..AZD1152.HQPA."
+..........[1] "Bay.11.7085"
+..........[1] "Bortezomib..Velcade."
+..........[1] "Bosutinib..SKI.606."
+..........[1] "CHIR.99021"
+..........[1] "CI.1040..PD184352."
+..........[1] "CYT387"
+..........[1] "Cabozantinib"
+..........[1] "Canertinib..CI.1033."
+..........[1] "Cediranib..AZD2171."
+..........[1] "Crenolanib"
+..........[1] "Crizotinib..PF.2341066."
+..........[1] "DBZ"
+..........[1] "Dasatinib"
+..........[1] "Doramapimod..BIRB.796."
+..........[1] "Dovitinib..CHIR.258."
+..........[1] "Elesclomol"
+..........[1] "Entospletinib..GS.9973."
+..........[1] "Entrectinib"
+..........[1] "Erlotinib"
+..........[1] "Flavopiridol"
+..........[1] "Foretinib..XL880."
+..........[1] "GDC.0879"
+..........[1] "GDC.0941"
+..........[1] "GSK.1838705A"
+..........[1] "GSK.1904529A"
+..........[1] "GSK690693"
+..........[1] "GW.2580"
+..........[1] "Gefitinib"
+..........[1] "Gilteritinib..ASP.2215."
+..........[1] "Go6976"
+..........[1] "INK.128"
+..........[1] "Ibrutinib..PCI.32765."
+..........[1] "Idelalisib"
+..........[1] "Imatinib"
+..........[1] "JAK.Inhibitor.I"
+..........[1] "JNJ.28312141"
+..........[1] "JNJ.38877605"
+..........[1] "JNJ.7706621"
+..........[1] "JQ1"
+..........[1] "KI20227"
+..........[1] "KU.55933"
+..........[1] "KW.2449"
+..........[1] "LY.333531"
+..........[1] "Lapatinib"
+..........[1] "Lenalidomide"
+..........[1] "Lenvatinib"
+..........[1] "Lestaurtinib..CEP.701."
+..........[1] "Linifanib..ABT.869."
+..........[1] "Lovastatin"
+..........[1] "MGCD.265"
+..........[1] "MK.2206"
+..........[1] "MLN120B"
+..........[1] "MLN8054"
+..........[1] "Masitinib..AB.1010."
+..........[1] "Midostaurin"
+..........[1] "Motesanib..AMG.706."
+..........[1] "NF.kB.Activation.Inhibitor"
+..........[1] "NVP.ADW742"
+..........[1] "NVP.TAE684"
+..........[1] "Neratinib..HKI.272."
+..........[1] "Nilotinib"
+..........[1] "Nutlin.3a"
+..........[1] "PD173955"
+..........[1] "PHA.665752"
+..........[1] "PHT.427"
+..........[1] "PI.103"
+..........[1] "PLX.4720"
+..........[1] "PP242"
+..........[1] "PRT062607"
+..........[1] "Palbociclib"
+..........[1] "Panobinostat"
+..........[1] "Pazopanib..GW786034."
+..........[1] "Pelitinib..EKB.569."
+..........[1] "Ponatinib..AP24534."
+..........[1] "Quizartinib..AC220."
+..........[1] "RAF265..CHIR.265."
+..........[1] "Rapamycin"
+..........[1] "Regorafenib..BAY.73.4506."
+..........[1] "Roscovitine..CYC.202."
+..........[1] "Ruxolitinib..INCB018424."
+..........[1] "S31.201"
+..........[1] "SB.431542"
+..........[1] "SGX.523"
+..........[1] "SNS.032..BMS.387032."
+..........[1] "SR9011"
+..........[1] "STO609"
+..........[1] "SU11274"
+..........[1] "Saracatinib..AZD0530."
+..........[1] "Selinexor"
+..........[1] "Selumetinib..AZD6244."
+..........[1] "Sorafenib"
+..........[1] "Staurosporine"
+..........[1] "Sunitinib"
+..........[1] "TG100.115"
+..........[1] "TG101348"
+..........[1] "Tandutinib..MLN518."
+..........[1] "Tivozanib..AV.951."
+..........[1] "Tofacitinib..CP.690550."
+..........[1] "Tozasertib..VX.680."
+..........[1] "Trametinib..GSK1120212."
+..........[1] "VX.745"
+..........[1] "Vandetanib..ZD6474."
+..........[1] "Vargetef"
+..........[1] "Vatalanib..PTK787."
+..........[1] "Vemurafenib..PLX.4032."
+..........[1] "Venetoclax"
+..........[1] "Vismodegib..GDC.0449."
+..........[1] "Volasertib..BI.6727."
+..........[1] "XAV.939"
+..........[1] "YM.155"
+..........
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@jx26>
+Subject: Job 31551819: <KrnarestrictMean510.txt_Kempirical.txt> in cluster <juno> Done
+
+Job <KrnarestrictMean510.txt_Kempirical.txt> was submitted from host <juno> by user <asimomig> in cluster <juno> at Sat Mar  7 20:33:26 2020
+Job was executed on host(s) <10*jx26>, in queue <general>, as user <asimomig> in cluster <juno> at Sat Mar  7 20:33:27 2020
+</home/asimomig> was used as the home directory.
+</work/isabl/home/asimomig/Synapse_Comp_Onc/dream-beat_final/analysis/kmr03022020> was used as the working directory.
+Started at Sat Mar  7 20:33:27 2020
+Terminated at Sat Mar  7 20:42:28 2020
+Results reported at Sat Mar  7 20:42:28 2020
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+Rscript PredKMR_rscript.R KrnarestrictMean510.txt Kempirical.txt 10
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   5150.77 sec.
+    Max Memory :                                 2 GB
+    Average Memory :                             1.56 GB
+    Total Requested Memory :                     20.00 GB
+    Delta Memory :                               18.00 GB
+    Max Swap :                                   -
+    Max Processes :                              13
+    Max Threads :                                14
+    Run time :                                   542 sec.
+    Turnaround time :                            542 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <eo_KrnarestrictMean510.txt_Kempirical.txt> for stderr output of this job.
+

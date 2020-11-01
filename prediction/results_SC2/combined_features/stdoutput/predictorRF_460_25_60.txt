@@ -1,0 +1,163 @@
+Loading required package: Matrix
+Loading required package: foreach
+Loaded glmnet 2.0-18
+
+Loading required package: prodlim
+
+ randomForestSRC 2.9.3 
+ 
+ Type rfsrc.news() to see new features, changes, and bug fixes. 
+ 
+
+Loading required package: RColorBrewer
+[1] 293  32
+[1] 293  32
+Error in file(file, "rt") : cannot open the connection
+Calls: evaluateCV_SC2 -> read.table -> file
+In addition: Warning message:
+In file(file, "rt") :
+  cannot open file '../data/features_SC2/similarity_ordered_prepared_data_MSK.csv': No such file or directory
+Execution halted
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@ju10>
+Subject: Job 31857077: <model> in cluster <juno> Exited
+
+Job <model> was submitted from host <ja06> by user <asimomig> in cluster <juno> at Thu Mar 12 18:10:26 2020
+Job was executed on host(s) <4*ju10>, in queue <general>, as user <asimomig> in cluster <juno> at Thu Mar 12 18:12:05 2020
+</home/asimomig> was used as the home directory.
+</juno/work/isabl/home/asimomig/Synapse_Comp_Onc/dream-beat_final/src> was used as the working directory.
+Started at Thu Mar 12 18:12:05 2020
+Terminated at Thu Mar 12 18:12:10 2020
+Results reported at Thu Mar 12 18:12:10 2020
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+Rscript evaluate_SC2_intermediate_parallel.R --predictor predictorRF --feature_model combined_features --use_MSK 60 --ntree 460 --nodesize 25 --nrepeats 10 --nfolds 5 --mc.cores 4 --outpath ./../prediction/results_SC2/combined_features --filename predictorRF_460_25_60
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   2.97 sec.
+    Max Memory :                                 -
+    Average Memory :                             -
+    Total Requested Memory :                     16.00 GB
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                5
+    Run time :                                   5 sec.
+    Turnaround time :                            104 sec.
+
+The output (if any) is above this job summary.
+
+Loading required package: Matrix
+Loading required package: foreach
+Loaded glmnet 2.0-18
+
+Loading required package: prodlim
+
+ randomForestSRC 2.9.3 
+ 
+ Type rfsrc.news() to see new features, changes, and bug fixes. 
+ 
+
+Loading required package: RColorBrewer
+[1] 293  32
+[1] 293  32
+[1] "start CV"
+..................................................[1] "./../prediction/results_SC2/combined_features/predictorRF_460_25_60.csv"
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@jb12>
+Subject: Job 31859850: <model> in cluster <juno> Done
+
+Job <model> was submitted from host <ja06> by user <asimomig> in cluster <juno> at Thu Mar 12 18:22:33 2020
+Job was executed on host(s) <4*jb12>, in queue <general>, as user <asimomig> in cluster <juno> at Thu Mar 12 18:42:21 2020
+</home/asimomig> was used as the home directory.
+</juno/work/isabl/home/asimomig/Synapse_Comp_Onc/dream-beat_final/src> was used as the working directory.
+Started at Thu Mar 12 18:42:21 2020
+Terminated at Thu Mar 12 18:57:02 2020
+Results reported at Thu Mar 12 18:57:02 2020
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+Rscript evaluate_SC2_intermediate_parallel.R --predictor predictorRF --feature_model combined_features --use_MSK 60 --ntree 460 --nodesize 25 --nrepeats 10 --nfolds 5 --mc.cores 4 --outpath ./../prediction/results_SC2/combined_features --filename predictorRF_460_25_60
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   3511.67 sec.
+    Max Memory :                                 2 GB
+    Average Memory :                             1.20 GB
+    Total Requested Memory :                     16.00 GB
+    Delta Memory :                               14.00 GB
+    Max Swap :                                   -
+    Max Processes :                              7
+    Max Threads :                                20
+    Run time :                                   882 sec.
+    Turnaround time :                            2069 sec.
+
+The output (if any) is above this job summary.
+
+Loading required package: Matrix
+Loading required package: foreach
+Loaded glmnet 2.0-18
+
+Loading required package: prodlim
+
+ randomForestSRC 2.9.3 
+ 
+ Type rfsrc.news() to see new features, changes, and bug fixes. 
+ 
+
+Loading required package: RColorBrewer
+[1] 293  32
+[1] 293  32
+[1] "start CV"
+..................................................[1] "./../prediction/results_SC2/combined_features/predictorRF_460_25_60.csv"
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@jx11>
+Subject: Job 31960995: <model> in cluster <juno> Done
+
+Job <model> was submitted from host <jx07> by user <asimomig> in cluster <juno> at Fri Mar 13 21:23:02 2020
+Job was executed on host(s) <4*jx11>, in queue <general>, as user <asimomig> in cluster <juno> at Fri Mar 13 21:42:25 2020
+</home/asimomig> was used as the home directory.
+</juno/work/isabl/home/asimomig/Synapse_Comp_Onc/dream-beat_final/src> was used as the working directory.
+Started at Fri Mar 13 21:42:25 2020
+Terminated at Fri Mar 13 21:56:39 2020
+Results reported at Fri Mar 13 21:56:39 2020
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+Rscript evaluate_SC2_intermediate_parallel.R --predictor predictorRF --feature_model combined_features --use_MSK 60 --ntree 460 --nodesize 25 --nrepeats 10 --nfolds 5 --mc.cores 4 --outpath ./../prediction/results_SC2/combined_features --filename predictorRF_460_25_60
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   3405.42 sec.
+    Max Memory :                                 2 GB
+    Average Memory :                             1.23 GB
+    Total Requested Memory :                     16.00 GB
+    Delta Memory :                               14.00 GB
+    Max Swap :                                   -
+    Max Processes :                              7
+    Max Threads :                                20
+    Run time :                                   854 sec.
+    Turnaround time :                            2017 sec.
+
+The output (if any) is above this job summary.
+
