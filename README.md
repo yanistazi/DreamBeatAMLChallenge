@@ -15,7 +15,7 @@ Our results were in the top 5 but most importantly the framework developed could
 
 Challenge 1: Ex-vivo drug sensitivity prediction with kernel multi-task regression.
 
-Challenge 2: Outcome prediction from knowledge transfer of large scale AML genomic study.
+Challenge 2: Outcome prediction from knowledge transfer and federated learning of large scale AML genomic study.
 
 
 
